@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3406462986821167509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3406462986821167511}
+  - component: {fileID: 3406462986821167508}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3406462986821167511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3406462986821167509}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.0701572, y: 1.8421524, z: -38.229237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3406462986821167508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3406462986821167509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0545ad09597ed4a960dc9c19962dd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: DABABY
+    soundName: 0
+    clip: {fileID: 8300000, guid: efa17e91546326a47b6e6086a27fac7f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: DAFATHER
+    soundName: 1
+    clip: {fileID: 8300000, guid: a4647622a19165e4b844de55d06a72a3, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: DAMOTHER
+    soundName: 2
+    clip: {fileID: 8300000, guid: c175879f5232ced44bfc25dcb03d9b27, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: DAMEXICAN
+    soundName: 3
+    clip: {fileID: 8300000, guid: 8e09318b8e896774189045db207ff99d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: boom
+    soundName: 4
+    clip: {fileID: 8300000, guid: cb3ae1c9b35737242a423eea7c88833f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: coin
+    soundName: 5
+    clip: {fileID: 8300000, guid: e0f210b88d0db044c896d14d14027d2e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: over
+    soundName: 6
+    clip: {fileID: 8300000, guid: 1090f82617152ad41a919200f39e075b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: intro_over
+    soundName: 7
+    clip: {fileID: 8300000, guid: 5b5ec9a56513d2145abb6bf62c599677, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    mute: 0
+    source: {fileID: 0}
+  soundsMute: 0
