@@ -1,0 +1,180 @@
+[api-updater (non-obsolete-error-filter)] 02/03/2022 01:01:46 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 952.4573ms
+moved types parse time: 80ms
+candidates parse time : 1ms
+C# parse time         : 381ms
+candidates check time : 39ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 02/03/2022 02:43:26 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1175.3904ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 359ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02/03/2022 14:50:33 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1177.2698ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 325ms
+candidates check time : 42ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 02/03/2022 14:50:40 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 123.9229ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 363ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 02/03/2022 14:50:49 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98.9373ms
+moved types parse time: 79ms
+candidates parse time : 2ms
+C# parse time         : 429ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02/03/2022 14:51:06 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 124.9237ms
+moved types parse time: 111ms
+candidates parse time : 2ms
+C# parse time         : 414ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 04:30:41 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 420.7394ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 316ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:05 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1110.9077ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 302ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:11 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92.9408ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 388ms
+candidates check time : 64ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:23 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.9433ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 330ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:28 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.941ms
+moved types parse time: 70ms
+candidates parse time : 2ms
+C# parse time         : 319ms
+candidates check time : 56ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:39 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.9158ms
+moved types parse time: 129ms
+candidates parse time : 4ms
+C# parse time         : 324ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 13:52:46 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.9357ms
+moved types parse time: 87ms
+candidates parse time : 1ms
+C# parse time         : 408ms
+candidates check time : 87ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 16:36:34 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 234.8551ms
+moved types parse time: 117ms
+candidates parse time : 1ms
+C# parse time         : 305ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/03/2022 19:36:37 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 368.7694ms
+moved types parse time: 153ms
+candidates parse time : 2ms
+C# parse time         : 405ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/03/2022 03:45:47 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1266.2172ms
+moved types parse time: 91ms
+candidates parse time : 2ms
+C# parse time         : 372ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/03/2022 05:59:09 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1128.3013ms
+moved types parse time: 76ms
+candidates parse time : 2ms
+C# parse time         : 305ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/03/2022 05:59:17 : Starting C:/Users/KienPham/Desktop/Unity/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98.9388ms
+moved types parse time: 107ms
+candidates parse time : 2ms
+C# parse time         : 483ms
+candidates check time : 51ms
+console write time    : 0ms
+
