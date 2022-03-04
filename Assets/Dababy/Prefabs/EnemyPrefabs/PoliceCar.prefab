@@ -45,9 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cad7454bec89164abf9193e82cfa36d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upDownPosition: 0
-  enemyDigit: 0
-  movieVector: {x: 1, y: 0, z: 0}
+  movieVector: {x: 0.5, y: 0, z: 0}
 --- !u!212 &8700575511612356775
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -112,7 +110,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.11944485, y: -0.11310178}
+  m_Offset: {x: -0.057652354, y: -0.28134382}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -123,5 +121,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.6811104, y: 1.1968879}
+  m_Size: {x: 4.5394325, y: 0.8604038}
   m_EdgeRadius: 0

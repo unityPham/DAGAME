@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DDA1C6F3-B8BB-20A0-C407-1FC231EBD860}</ProjectGuid>
+    <ProjectGuid>{679A8740-54D1-9BE5-8CA1-5E165E3D43B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,17 +54,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Tree.cs" />
     <Compile Include="Assets\Scripts\UI_Movie.cs" />
+    <Compile Include="Assets\Scripts\HomeManager.cs" />
     <Compile Include="Assets\Scripts\SetScore.cs" />
     <Compile Include="Assets\Scripts\Enemy\Pit.cs" />
     <Compile Include="Assets\Scripts\Enemy\Money.cs" />
     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Car.cs" />
     <Compile Include="Assets\Scripts\Enemy\SawBlade.cs" />
     <Compile Include="Assets\Scripts\Enemy\Poles.cs" />
     <Compile Include="Assets\Scripts\UI_Click.cs" />
-    <Compile Include="Assets\Scripts\Enemy\Tree.cs" />
-    <Compile Include="Assets\Scripts\Enemy\Car.cs" />
-    <Compile Include="Assets\Scripts\HomeManager.cs" />
+    <Compile Include="Assets\Scripts\GamePlayControl.cs" />
+    <Compile Include="Assets\AudioManager\AudioManager.cs" />
+    <Compile Include="Assets\AudioManager\Sound.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Dababy\assets\Fonts\Font1\font1.fnt" />

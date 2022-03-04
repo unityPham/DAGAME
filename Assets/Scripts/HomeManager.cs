@@ -8,12 +8,15 @@ public class HomeManager : MonoBehaviour
     public static HomeManager THIS;
     public List<Sprite> playerSkin;
     public List<string> playerSkinName;
+    public List<Sound_Name> soundsNameList;
     public GameObject showSkinObj, skinNameObj;
     public int skinDigit;
     void Start()
     {
         THIS = this;
         GameManager.THIS.destroyGameObjectList.Add(gameObject);
+        skinDigit = GameManager.THIS.skinDigit;
+        setPlayerSkin();
     }
 
     // Update is called once per frame

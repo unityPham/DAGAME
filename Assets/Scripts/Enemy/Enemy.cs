@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public Player_Positon_Y upDownPosition;
-    public int enemyDigit;
+    //public Player_Positon_Y upDownPosition;
+    //public float enemyDigit;
     private void Start()
     {
-        bornPosition();
+        BornPosition();
     }
 
     private void Update()
@@ -43,9 +43,8 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    public void bornPosition()
+    public void BornPosition()
     {
-        gameObject.transform.position = new Vector2(enemyDigit * GameManager.THIS.enemyDistance, (int)upDownPosition * 0.1f);
         GetComponent<SpriteRenderer>().sortingOrder = Mathf.RoundToInt(transform.position.y * 100f) * -1;
     }
 }

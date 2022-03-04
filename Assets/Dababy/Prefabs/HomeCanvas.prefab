@@ -279,6 +279,7 @@ MonoBehaviour:
   - DAFATHER
   - DAMOTHER
   - DAMEXICAN
+  soundsNameList: 00000000010000000200000003000000
   showSkinObj: {fileID: 617107937146912572}
   skinNameObj: {fileID: 4165190245502507611}
   skinDigit: 0
@@ -594,7 +595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af020b89d988aba459df097bd61e1489, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clickFuntion: 5
+  clickFuntion: 6
 --- !u!114 &1888915824187465742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1025,7 +1026,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DAMEXICAN
+  m_Text: DABABY
 --- !u!223 &1818614336411012262
 Canvas:
   m_ObjectHideFlags: 0
@@ -1128,7 +1129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DAMEXICAN
+  m_Text: DABABY
 --- !u!223 &1456566977073863491
 Canvas:
   m_ObjectHideFlags: 0

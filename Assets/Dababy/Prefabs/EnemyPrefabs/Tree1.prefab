@@ -122,5 +122,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a09448c7b3e3174ba52aaa6bb370ff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upDownPosition: 0
-  enemyDigit: 0

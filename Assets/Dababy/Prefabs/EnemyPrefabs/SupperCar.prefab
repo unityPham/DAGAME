@@ -45,9 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cad7454bec89164abf9193e82cfa36d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upDownPosition: 0
-  enemyDigit: 0
-  movieVector: {x: -2, y: 0, z: 0}
+  movieVector: {x: -1, y: 0, z: 0}
 --- !u!212 &3147056923183213390
 SpriteRenderer:
   m_ObjectHideFlags: 0

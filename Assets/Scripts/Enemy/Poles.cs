@@ -35,6 +35,7 @@ public class Poles : Enemy
             gameObject.GetComponent<Rigidbody2D>().freezeRotation = true;
             gameObject.GetComponent<Rigidbody2D>().collisionDetectionMode = CollisionDetectionMode2D.Discrete;
         }
+        CheckDestroy();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

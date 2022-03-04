@@ -4,10 +4,8 @@ using UnityEngine;
 
 public class Pit : Enemy
 {
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        GetComponent<SpriteRenderer>().sortingOrder = Mathf.RoundToInt(transform.position.y * 100f) * -1 -1;
     }
-
 }
